@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject", "HotelProject\HotelProject.csproj", "{604D799A-02AA-41D2-864E-69BDA4812F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelTests", "HotelTests\HotelTests.csproj", "{9DEAF428-4CE0-475B-A883-66B96EE40ABB}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "HotelUML", "HotelUML\HotelUML.modelproj", "{9B1B643B-D466-4365-9739-E785E6AFC523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604D799A-02AA-41D2-864E-69BDA4812F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604D799A-02AA-41D2-864E-69BDA4812F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604D799A-02AA-41D2-864E-69BDA4812F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604D799A-02AA-41D2-864E-69BDA4812F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEAF428-4CE0-475B-A883-66B96EE40ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEAF428-4CE0-475B-A883-66B96EE40ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEAF428-4CE0-475B-A883-66B96EE40ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEAF428-4CE0-475B-A883-66B96EE40ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1B643B-D466-4365-9739-E785E6AFC523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1B643B-D466-4365-9739-E785E6AFC523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1B643B-D466-4365-9739-E785E6AFC523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1B643B-D466-4365-9739-E785E6AFC523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://denohotel.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HotelProject\\HotelProject.csproj
+		SccProjectName1 = HotelProject
+		SccLocalPath1 = HotelProject
+		SccProjectUniqueName2 = HotelTests\\HotelTests.csproj
+		SccProjectName2 = HotelTests
+		SccLocalPath2 = HotelTests
+		SccProjectUniqueName3 = HotelUML\\HotelUML.modelproj
+		SccProjectName3 = HotelUML
+		SccLocalPath3 = HotelUML
+	EndGlobalSection
+EndGlobal
